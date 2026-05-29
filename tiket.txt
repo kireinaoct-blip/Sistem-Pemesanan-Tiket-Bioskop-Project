@@ -1,10 +1,10 @@
 101,Antony,Ghost in the Cell,1,false
-102,Bagaskara,Ghost in the Cell,2,false
+102,Oji,Ghost in the cell,9,false
 103,Bruno,Ghost in the Cell,4,false
 104,Joko Anwar,Ghost in the Cell,1,false
 105,Tokek,Ghost in the Cell,2,false
 106,Six,Ghost in the Cell,3,false
-201,Nadia,Parasite,1,true
+201,Risa Adistia,Danur 2,2,false
 202,Peter,Danur 2,1,false
 203,William,Danur 2,3,false
 204,Janshen,Danur 2,2,false
@@ -22,10 +22,8 @@
 404,Nadia Permata,Sri Asih,1,false
 405,Farhan Malik,Sri Asih,3,false
 406,Dewi Ratna,Sri Asih,2,false
-501,Sancaka,Gundala,5,false
+501,Faris,Gundala,7,false
 502,Pengkor,Gundala,2,false
 503,Wulan,Gundala,3,false
-504,Ghani,Gundala,1,false
+504,Tata,Biru Baru Movie,5,false
 505,Ridwan Bahri,Gundala,4,false
-506,Swara Bumi,Gundala,2,false
-2006,Rei,Hereditary,2,false
